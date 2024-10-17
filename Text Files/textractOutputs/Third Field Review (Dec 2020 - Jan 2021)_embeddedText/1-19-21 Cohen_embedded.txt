@@ -1,0 +1,33 @@
+From: Israel Cohen Sent: Tuesday, January 19, 2021 7:49 AM To: Ethnic Studies Subject: [EXTERNAL] Ethnic Studies Model Curriculum
+
+Hello CDE staff --
+
+Thank you for enabling us to tell you our thoughts regarding the ESMC.
+
+We hope you will include a link to the IHRA antisemitism
+definition in the text or in a glossary. Here is an idea about how
+to produce a glossary for an eBook..
+-------------
+eBooks do not need an index or glossary. A search facility can replace the index and words that would be in a glossary can be linked to explanations on the web. Printed books may need both. The glossary in Shlomo Giora Shoham's Moses: The Righteous Sky Gazer is typical. The average size of each entry is slightly over 30 words. A typical entry looks like this:
+
+Akhenaten
+
+Pharaoh Akhenaten (meaning "Effective for Aten") ruled 17 years. Before the 5th year of his reign, he was known as Amenhotep IV (Greek Amenophis IV meaning Amun is Satisfied).
+
+The same entry in a tinyURL glossary could look like this:
+Glossary
+This glossary provides tinyURL links to additional information on the web for each term. To display data from the web, enter tinyurl.com/ followed by the term's alphanumeric code. All characters in the code that look like a lowercase L are actually the number 1.
+
+Term (with actual link)
+Akhenaten
+
+tinyurl.com/ p7u8ccr
+
+The tinyURLs link to much more comprehensive definitions and the average size of each entry is less than three words.
+To see the "definition" for Akhenaten, the reader must enter tinyurl.com/p7u8ccr in a device with access to the web. The effort required is about the same as dialing a phone number that is not already stored on one's smartphone. However, the effort required to produce a tinyURL glossary is much less than that required to produce a standard glossary with the same terms.
+-----------------
+
+We also want you to ensure that all school districts have a curriculum that does not encourage BDS orantisemitism. The standards you set may get adopted by many other States.
+Best regards and stay well, izzy Israel A. Cohen [email redacted] Inactive member of the Florida Bar
+
+

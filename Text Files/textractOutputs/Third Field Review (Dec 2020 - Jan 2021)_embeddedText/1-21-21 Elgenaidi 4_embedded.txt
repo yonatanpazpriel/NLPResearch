@@ -1,0 +1,298 @@
+Creating Inclusive and Equitable Communities � A Call to Action
+Understanding the origins and impact of bigotry in the U.S. today and what we can do about it
+Lesson 3: Colonial Origins of Contemporary Dominant Narratives
+Contributors: Melissa Levinson, MA in Arab Studies
+Nikhil Laud, MA in Education Magdalena Gross, PhD in Religious Studies Ameena Jandali, MA in Near Eastern Studies
+Islamic Networks Group (ING) 3031 Tisch Way, 110 Plaza West
+San Jose, CA 95128 Phone: 408.296.7312 Website: www.ing.org Facebook: facebook.com/ing.org Instagram: Instagram.com/ing_org Twitter: twitter.com/ing.org LinkedIn: linkedin.com/company/ing.org
+
+1
+
+Table of Contents
+
+Introduction
+
+1
+
+Relevant Curriculum Standards
+
+2
+
+Background Information for Educators
+
+3
+
+Learning Objectives
+
+4
+
+Guiding Questions
+
+5
+
+Key Concepts and Terminology
+
+5
+
+In-Class Activities
+
+5
+
+Discussion Questions
+
+7
+
+Homework
+
+7
+
+Additional Resources
+
+8
+
+Student Worksheets
+
+9
+
+"The Hook": Analyzing a Political Cartoon
+
+9
+
+Cornell Notetaking Sheet
+
+10
+
+Comprehension Sheet: PBS Documentary
+
+11
+
+Excerpts from "The White Man's Burden" by Rudyard Kipling (1899)
+
+12
+
+SOAPStone Reading Comprehension Sheet: "The White Man's Burden"
+
+13
+
+Gallery Walk: Comparing Historical and Contemporary Images
+
+14
+
+PowerPoint Presentation Slides
+
+18
+
+Introduction
+This lesson introduces students to the historical roots of dominant narratives about ethnic minority groups. After completing Lessons 1 and 2, students should now be familiar with the concept of dominant narratives and how to identify them in their daily lives. Students will now learn about the historical formation of these narratives during the colonialist era (c. 16th-20th century). Specifically, students will trace the genealogy of dominant narratives and uncover how these narratives were crafted to justify the subjugation, dispossession, enslavement, and murder of non-white groups by European colonial powers.
+This lesson features a PowerPoint presentation with speaker notes, which provides historical context and analysis of the colonialist origins of dominant narratives. Students will then read an article that
+
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+2
+explains the lineage of racial categories constructed and sustained by European colonizers. By the end of the lesson, students will be able to explain the origins of dominant narratives and trace the continuity of these narratives until the present day.
+Theme: History and Movement
+Disciplinary Area: General Ethnic Studies
+Ethnic Studies Values and Principles Alignment: 3, 4, 5
+Relevant Curriculum Standards
+California's Literacy in History/Social Studies Standards:  Reading Standards for Literacy in History/Social Studies: RH.9.10.2; RST.11.12.9  Determine the central ideas or information of a primary or secondary source; provide an accurate summary of how key events or ideas develop over the course of the text.  Integrate information from diverse sources, both primary and secondary, into a coherent understanding of an idea or event, noting discrepancies among sources.
+ Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects: WHST.9.10.1; 9.10.2.a; 9.10.2.b; 9.10.7; 9.10.8  Write arguments focused on discipline-specific content.  Introduce a topic and organize ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.  Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.  Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.  Gather relevant information from multiple authoritative print and digital sources (primary and secondary), using advanced searches effectively; assess the usefulness of each source in answering the research question; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and following a standard format for citation.
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+3
+Background Information for Educators
+Dominant narratives about non-white ethnic groups have remained remarkably consistent since the 15th century. As European powers (particularly England, France, Spain, Portugal, and the Netherlands) sought to expand their territorial and material wealth by conquering and colonizing large portions of the Americas, Africa, and Asia, they constructed narratives about indigenous populations to justify their claim to the land. In general, Europeans portrayed colonized people as barbaric, uncivilized, and dangerous. African men were portrayed as sinful and savage1 while African women were depicted as prostitutes.2 Indigenous Americans were painted as diseased and threatening.3 Arab men were depicted as alien and violent while Arab women were seen as promiscuous and exotic.4 While the particulars of each groups' narratives may have varied, the underlying motivation behind the creation and perpetuate of these narratives was the same: to dehumanize indigenous people in order to justify their subjugation, enslavement, and genocide.
+In order to put forth narratives about these groups, European powers needed to first create the racial categories to distinguish the indigenous populations from the white Europeans.5 This process consisted of assigning people with certain physical characteristics to racial groups, even if these individuals came from diverse backgrounds, had dissimilar languages, and believed in very different ways of life. For example, despite belonging to distinct tribes with diverse languages and customs, Indigenous Americans were all categorized as "Indians" by European (and later American) colonizers. Once these groups were established, Europeans assigned certain attributes to these nonwhite populations which were then used to place groups on a continuum of hierarchy that privileged "whiteness" and devalued "blackness" and "brownness."
+To bolster the creation of these racial categories and the narratives about these groups, European colonizers enlisted scientists to develop `scientific' theories that reinforced the characteristics given to non-whites. Some pseudoscientific ideologies likened Blacks to apes who were intellectually inferior due to brain size or texture.6 Other theories portrayed Arabs and Indians as cognitively
+1 Hannah Mabry, "Photography, Colonialism and Racism," International Affairs Review, 2014, https://www.usfca.edu/sites/default/files/arts_and_sciences/international_studies/photography_colonialism_and_raci sm_-_university_of_san_francisco_usf.pdf 2 Doreen Nakasaga Lwanga. "Women in African Colonial Histories." Agenda: Empowering Women for Gender Equity, no. 58 (2003): 117-20. Accessed October 28, 2020. http://www.jstor.org/stable/4548104 3 Sophie Croisy, "Fighting Colonial Violence in `Indian Country': Deconstructing racist sexual stereotypes of Native American Women in American popular culture and history", Angles, 5, 2017. Accessed October 28 2020, http://journals.openedition.org/angles/1313 4 Driss Ridouani, "The Representation of Arabs and Muslims in Western Media," RUTA, no. 3 (2011). 5 Tayyab Mahmud, "Colonialism and Modern Constructions of Race: A Preliminary Inquiry," no. 53 (1999), https://digitalcommons.law.seattleu.edu/faculty/501 6 Western States Center's Dismantling Racism Project, "A History: The Construction of Race and Racism," Racial Equity Tools, https://www.racialequitytools.org/resourcefiles/Western%20States%20-%20Construction%20of%20Race.pdf
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+4
+deficient and incapable of self-rule.7 These theories, and their associated dominant narratives, were used to dehumanize the victims of European capitalism and imperialism. The transatlantic slave trade, which transported 10 to 12 million enslaved Africans to the Americas from the 16th to 19th century, was based on a view of Africans as subhuman.8 Indigenous Americans were characterized by Europeans as backwards savages in need of civilizing in order to justify genocide and the confiscation of native land.9 Subcontinent Indians were seen as backwards and immoral; Winston Churchill, the prime minister of England from 1940 to 1945 once said, "I hate Indians. They are a beastly people with a beastly religion."10
+Among the many detrimental lasting impacts of colonialism, the dominant narratives of non-white groups put forth by European colonizers persist to this day. Since the 16th century, these narratives have been used to justify a global system of racial hierarchy, which privileges white bodies and condemns black and brown bodies. European and American governments have relied on these narratives to justify policies as diverse as slavery, segregation, police violence, military occupation, and genocide. This lesson is designed to introduce students to these historical origins of dominant narratives so that they can better understand why these narratives persist today.
+Learning Objectives
+Identity: How will my instruction help students learn something about themselves and/or others?  Students will be able to make connections between the dominant narratives they encounter in their daily lives and the historic origin of these narratives.
+Skills: How will my instruction build students' skills relating to the content?  Students will be able to demonstrate reading comprehension skills by analyzing an article and discussing its main arguments.  Students will be able to develop their historical literacy skills by analyzing primary source material.  Students will be able to improve their public speaking skills by presenting a PowerPoint presentation on research they conduct for homework.
+Intellect: How will my instruction build students' knowledge and mental powers?  Students will be able to explain the social construction of racial categories under colonialism.  Students will be able to describe how discourses under the colonialist period influenced modern day narratives about non-white ethnic groups.
+7 Rohan Deb Roy, "Science Still Bears the Fingerprints of Colonialism," Smithsonian.com (Smithsonian Institution, April 9, 2018), https://www.smithsonianmag.com/science-nature/science-bears-fingerprints-colonialism-180968709/ 8 David Olusoga, "The Roots of European Racism Lie in the Slave Trade, Colonialism � and Edward Long," The Guardian, September 8, 2015, https://www.theguardian.com/commentisfree/2015/sep/08/european-racism-africaslavery. 9 Facing History and Ourselves, "From `Noble Savage' to `Wretched Indian,'" https://www.facinghistory.org/stolenlives-indigenous-peoples-canada-and-indian-residential-schools/chapter-2/noble-savage-wretched-indian 10 Diarmaid Ferriter, Review of Shashi Tharoor's Inglorious Empire: What the British Did to India, accessed October 28, 2020, https://www.irishtimes.com/culture/books/inglorious-empire-what-the-british-did-to-india-1.2981299
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+5
+ Students will be able to critically interrogate the role of pseudoscience, education, and media in perpetuating prejudiced colonialist narratives.
+Criticality: How will my instruction inform students' views of power and equity and the disruption of oppression?  Students will be able to explain how European colonizers created and maintained dominant narratives to justify global systems of oppression that privileged whites.  Students will be able to question the normalization of dominant narratives by understanding the historic motivations behind them.
+Guiding Questions
+1. What are the historic origins of contemporary dominant narratives about non-white ethnic groups?
+2. Why were these dominant narratives created and whom did they serve or benefit? 3. What tactics did European powers use to reinforce these dominant narratives?
+Key Concepts and Terminology
+ Colonialism - the practice of domination, which involves the subjugation of one people to another. European colonialism began in the 15th century, reached its peak in the 19th century, and began to decline in the 20th century.
+ Dehumanization - the process of depriving a person or group of human attributes  Genealogy - a line of descent traced continuously from one thing to another  Hierarchy - a system or organization in which people or groups are ranked one above the
+other according to status or authority  Social Construct - an idea that has been created and accepted by people in a society  Racial Categorization - the classification of individuals into racial groups based on physical
+attributes
+In-Class Activities
+1. The Hook - Show the political cartoon "The White Man's Burden (Apologies to Kipling)" (page 8), which was published in 1899. This cartoon demonstrates the dominant narrative about "uncivilized" non-white ethnic groups in late-19th century America. Please warn students that the cartoon contains racist portrayals that some may find disturbing. We are only showing this cartoon so that students can visualize the historical narratives about nonwhite ethnic groups. Lead the class through a discussion about the cartoon using these questions:  What do you see?
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+6
+ What do you wonder about?  What do you think is happening? Next, hand out copies of the modified Cornell Notes worksheet (page 10) to each student. Students will use this worksheet to take notes during the class period. Finally, introduce the "Key Concepts and Terminology" (page 5) that students will learn in this lesson.
+2. Main Lesson - The main lesson consists of a PowerPoint and two reading exercises. First, present the ICSB slides 5-15, which introduce students to the colonialist roots of dominant narratives about ethnic minority groups. Students will use the Cornell Notes worksheet (page 9) to take notes during the presentation. After the presentation, show a clip (00:00-16:05) of the PBS documentary "Race: The Power of an Illusion, Episode 2: The Story We Tell." Students will use the Comprehension Worksheet (page 10) to guide their understanding of the documentary. After showing the clip, divide the class into groups and ask each group to discuss their answers to the Comprehension Worksheet with their group members. Finally, give each student a copy of Rudyard Kipling's poem, `The White Man's Burden" (page 12), which gives students the opportunity to analyze a primary source document. Ask students to independently read the poem and answer the questions on the SOAPStone Reading Comprehension Worksheet (page 13).
+3. Class Discussion or Application - Lead a class discussion around the PowerPoint presentation, the Washington Post article, and the poem. Use the Discussion Questions (page 7) to guide your class discussion. These discussion questions will also help students to answer the lesson's Guiding Questions (page 5).
+4. Reflection - At the end of the lesson, take 5 to 10 minutes to lead students through a reflective exercise to summarize the main takeaways from the day. You may ask students to independently write their reflection or ask students to share their reflections orally with the class. You may want to revisit the lesson's Guiding Questions, which will help reinforce the lesson's overarching takeaways. Other questions for students can include:  What were the key takeaways of today's lesson?  What is something new you learned?  What is something you are still unclear about?  What is something you want to learn more about?
+5. Extension Activities - Here are some ideas for further student exploration into the colonialist roots of dominant narratives:  If instruction is in-person, print out the images on pages 13 to 16 that compare contemporary and colonial images of non-white ethnic groups. Display these images around the classroom. Ask students to independently do a "gallery walk" to analyze the images. Bring students back together to discuss the following questions:
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+7
+ What do you notice about these images?  What stereotypes are being portrayed?  What are some similarities and differences between the images?  What can these images tell us about the history of dominant narratives about
+non-white ethnic groups?  Have students watch the TedTalk "How Historical Colonialism led me to Hate my
+Culture (and Myself)"  Ask students to research the colonialist narratives about several different ethnic
+groups and create a Venn diagram that compares and contrasts the narratives. (Note: students should explore how narratives about men and women differed.)
+Discussion Questions
+1. What were the dominant narratives about colonized groups created by Europeans during colonialism?
+2. Did these narratives differ for men and women? 3. What was the motivation behind the creation of these narratives? 4. What does it mean that racial categories were "socially constructed"? 5. Whom did these narratives benefit? Whom did they harm? 6. How did these narratives contribute to a global system of racial hierarchy? 7. What role did pseudoscience play in reinforcing dominant narratives? 8. Why do you think these dominant narratives have been so persistent for centuries?
+Homework
+Students will research and prepare a PowerPoint presentation on a case study of colonialist narratives about one specific ethnic group. Case studies could include narratives about Africans, Latinx, Indigenous Americans, Arabs, South Asians, East Asians, or Pacific Islanders. Students' presentations should include slides on:
+ Background on the group's history under colonialism  Colonialist narratives about the group (keeping in mind how narratives may have varied by
+gender)  At least one or two primary source documents (could be poems, artwork, newspaper articles,
+quotes)  Modern day narratives about the group
+Assessment, Application, Action, and Reflection
+� Refer to steps 3-4 of the In-Class Activities section
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+8
+Additional Resources
+ Fairness and Accuracy in Reporting, "The Colonial Roots of Media's Racial Narratives" https://fair.org/extra/the-colonial-roots-of-media8217s-racial-narratives/
+ Boston Review, "The Pervasive Power of the Settler Mindset" by Nikhil Pal Singh http://bostonreview.net/war-security-race/nikhil-pal-singh-pervasive-power-settler-mindset
+ Racism Review, "Ethnicity is a Social Construction Too" http://www.racismreview.com/blog/2013/02/24/ethnicity-is-a-social-construction-too/
+ Multicultural Perspectives, "Disrupting Colonial Narratives in the Curriculum" by Stephanie Masta https://www.tandfonline.com/doi/abs/10.1080/15210960.2016.1222497?scroll=top&need Access=true&journalCode=hmcp20
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+9
+Student Worksheets "The Hook": Analyzing a Political Cartoon
+The White Man's Burden (Apologies to Kipling) by Victor Gillam (1899)
+Source: Gillam, Victor, The White Man's Burden (Apologies to Kipling). Cartoon. Judge Magazine, April 1, 1899. From The Ohio State University, Billy Ireland Cartoon Library and Museum. https://library.osu.edu/dc/concern/generic_works/g732tk384#?#.VnRQOHsfuP8&c=0&m=0&s=0&cv=0&xywh=1962%2C-108%2C7523%2C2624 (accessed October 27, 2020).
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+10
+Cornell Notetaking Sheet
+Lesson: Colonial Origins of Contemporary Dominant Narratives Class: Date:
+
+Key Words
+
+Notes
+
+Colonialism - the practice of domination, which involves the subjugation of one people to another
+
+Dehumanization - the process of depriving a person or group of human attributes.
+
+Genealogy - a line of descent traced continuously from one thing to another
+
+Hierarchy - a system or organization in which people or groups are ranked one above the other according to status or authority
+
+Social Construct - an idea that has been created and accepted by people in a society
+
+Racial Categorization - the classification of individuals into racial groups based on physical attributes
+
+Questions
+
+Key Takeaways
+
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+11
+Comprehension Sheet: PBS Documentary
+Race: The Power of an Illusion, Episode 2: The Story We Tell (00:00-16:05) 1. While you watch, jot down three main takeaways from the film.
+2. According to the documentary, race is...
+3. How did Thomas Jefferson justify owning slaves if he believed "all people were created equal"?
+4. When the first Africans arrived in Virginia in 1619, what were the features that determined a person's status?
+5. How and why did a person's skin color gradually become a way to distinguish between people in the United States?
+6. How did white European Americans view Indigenous Peoples (or as they were called then, Indians) in the 18th century?
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+12
+7. Why did white European Americans decide to "civilize the Indians"? What narratives did they put forth about Native Americans to justify this policy?
+
+Excerpts from "The White Man's Burden" by Rudyard Kipling (1899)
+"The White Man's Burden" was written by the British journalist and writer Rudyard Kipling in 1899. Kipling was a very popular writer in England during the 19th and 20th centuries and is most wellknown today for writing The Jungle Book and the following poem, "The White Man's Burden." Kipling wrote this poem about the Philippine-American War (1899-1902) and encouraged the United States to rule over the Philippines as a colony. This poem came to symbolize the colonialist mindset that justified imperialism as a moral "burden" that white European nations must take up to advance non-white civilizations.
+
+"The White Man's Burden"
+Take up the White Man's burden Send forth the best ye breed Go bind your sons to exile To serve your captives' need; To wait in heavy harness On fluttered folk and wild Your new-caught sullen peoples, Half devil and half child.
+Take up the White Man's burden In patience to abide To veil the threat of terror And check the show of pride; By open speech and simple, An hundred times made plain, To seek another's profit, And work another's gain.
+
+Take up the White Man's burden The savage wars of peace Fill full the mouth of famine And bid the sickness cease; And when your goal is nearest The end for others sought, Watch Sloth and heathen Folly Bring all your hopes to nought.
+...
+Take up the White Man's burden And reap his old reward, The blame of those ye better, The hate of those ye guard The cry of hosts ye humour (Ah slowly !) towards the light:"Why brought ye us from bondage, "Our loved Egyptian night?"
+
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+13 ...
+Source: https://sourcebooks.fordham.edu/mod/kipling.asp
+SOAPStone Reading Comprehension Sheet: "The White Man's Burden"
+Use the SOAPStone reading strategy to analyze the Rudyard Kipling poem. For more information on SOAPStone, visit: https://apcentral.collegeboard.org/courses/resources/soapstone-strategyreading-and-writing
+1. Who is the Speaker?
+2. What is the Occasion?
+3. Who is the Audience?
+4. What is the Purpose?
+5. What is the Subject?
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+14
+6. What is the Tone?
+Additional Question: 1. Is this poem still relevant today? Do you see Kipling's idea of the "White Man's Burden" present anywhere?
+Extension Exercise Gallery Walk: Comparing Historical and Contemporary Images
+NOTE: Please warn students that the images contain content that some may find disturbing or offensive.
+Source: https://indiancountrytoday.com/archive/this-date-in-history-scalping-of-jane-mccrea-used-to-portray-nativesas-evil-kAcoAsVA-UKKMWcM2T2JxQ
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+15 Source: https://www.cornel1801.com/disney/Pocahontas-1995/pictures/41.jpg Source: https://www.metmuseum.org/toah/hd/euor/hd_euor.htm
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+16 Source: https://islamofilmophobia.weebly.com/iron-man.html
+Source: https://www.markmurray.com/fabio-fabbi-paintings-for-sale Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+17 Source: https://disney.fandom.com/wiki/Harem_Girls Source: https://www.abhmuseum.org/nat-turners-rebellion-horrific-or-heroic/
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+18
+Source: https://www.originalprop.com/blog/2007/12/13/hbos-the-wire-behind-the-scenes-with-mike-sabo/
+PowerPoint Presentation Slides
+Slide 5: Context of Today's Panel � The context of today's panel is continued racism and bigotry against African Americans, Asians, Latinx, Jews, Muslims, Arabs, and other groups as well as continued hate crimes against these groups. � The past few years have seen a sharp rise in bigotry against all racial and religious minorities, including Muslims, in the wake of the Travel (Muslim) Ban, as well as Jews, Latinx, and immigrants generally, and Native Americans and Blacks, who have long suffered from racism and bigotry.
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+19
+o In 2019, nearly 60% of hate crimes reported were motivated by race/ethnicity/ancestry and of those, nearly half were anti-Black.
+o Nearly 21% of hate crimes reported were motivated by religion. Of those, nearly 60% were anti-Jewish and almost 16% were anti-Muslim/anti-Arab (another 4% were anti-Sikh, a group often conflated with Muslims).11
+o In California, despite being a diverse and progressive state, the numbers of victims of hate crimes rose slightly in 2019, with 24% of hate crimes against African Americans; 14% against Jews; 11% against Latinx; 56% against Arabs/Muslims; and 45% against Asians.12
+Slide 6: Continuing Discrimination � Yet despite major advances following the Civil Rights movement, including educational, and professional advances, racism and bigotry towards non-whites continues today. � In fact, racial biases, tensions, and inequalities persist and in recent years seem to have increased and often underlie the polarization that is increasingly afflicting our nation.  Racism even impacts those in the highest positions such as the Obamas, who were continuously held to higher standards than previous presidents and their families and subjected to racism.  Another recent example is Mohamed Khairullah, who despite being the mayor of Prospect Park, New Jersey, was racially profiled, detained, and questioned about terrorism at JFK in 2019. � Discrimination and inequity are still a persistent problem across various institutions, including workplaces, schools, healthcare; and criminal justice systems; and in everyday situations such as driving or flying.
+11 https://ucr.fbi.gov/hate-crime/2019/topic-pages/victims 12 https://data-openjustice.doj.ca.gov/sites/default/files/2020-06/Hate%20Crime%20In%20CA%202019.pdf, 8.
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+20
+Slide 7: PART ONE: HOW DID WE GET HERE? THE ROOTS OF RACISM We will now look at how we got to the present situation.
+Slide 8: Genealogies of Bigotry � We will look at two historical factors and two outcomes, which led to where we are today. We call them "genealogies of bigotry." � The historical factors include colonialism and racialization which led to internalization and structural racism today in the United States.
+Slide 9: European Colonialism � The first factor we will look at is European colonialism. � The five major European colonial powers were Great Britain, France, Spain, Portugal, and the Netherlands, with Great Britain and France controlling the most colonies.
+Slide 10: "Age of Discovery" � While many nations have engaged in colonialism, European colonialism refers specifically to the period of global colonialism which began with the so-called "Age of Discovery" in the 15th century and continued until the mid-20th century when most colonized nations gained their independence. Although Europe represented only about 8% of the world's land mass, during that time Europeans colonized over 80% of the entire world.13 They used religious, political, and legal justification for colonization of land inhabited by non-Christians. o Invoked since 1493, Pope Alexander VI's Papal Bull "Inter Caetera," was used to justify Christian European explorers' conquest of and claims on land and waterways that they allegedly "discovered."
+13 https://www.caltech.edu/about/news/why-did-western-europe-dominate-globe-47696
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+21
+o The decree was used to promote the concept of Christian domination and superiority across the world, including in Africa, Asia, Australia, New Zealand, and the Americas.
+� It was also the inspiration for the concept of Manifest Destiny in the United States. o The term refers to the 19th-century belief that American settlers were divinely destined to expand across the continent and beyond. o They were motivated by the desire for land and resources, as well as the belief that they were superior to the native inhabitants, and therefore more deserving of occupying their land.
+Slide 11: European Colonialism � When Europeans began colonizing much of the rest of the world they were seeking to occupy land for the purpose of gaining resources, souls (evangelism), and power. o The phrase Gold/God/Glory/ is often used to describe the motives behind European exploration, expansion, and colonization of the Americas, Africa, and Asia. Gold - the competition for control of wealth and resources was a main motive in the race between the various European powers God - religion played a major role in European colonialism. In North Africa and the Middle East rivalry with Islam played an important role while in the Americas missionary motives played a central role in the forced conversions of native people. In California, for example, the Spanish mission system that began in the late 18th century was an effort both to convert Native Americans to Catholicism and to expand Spanish control. Glory - National rivalries and races for control of valuable resources and colonies were also inspired by the desire to bring power and prestige to the mother country. � They asserted power over colonized people by: o Defining Europeans as smarter, more capable, and more human than non-Europeans.
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+22
+o Describing occupied peoples as backwards, primitive, in need of civilizing.
+o Casting occupied people as enemies of Christianity and Western civilization.
+Slide 12: Narratives Formed About Colonized Peoples � By the 20th century, most of the non-European world had been colonized by European powers, including Spain and Portugal in the Americas, Great Britain in India and the Middle East, and France in North and West Africa and Indochina, to name a few. � In order to justify colonialism and exert power and control over indigenous peoples, colonialists argued that colonized peoples were backwards and primitive, and in need of civilizing. This led to a creation of knowledge or formation of narratives that privileged Western culture, peoples, norms, and ideals at the expense of native cultures and non-Christian religions. � In a speech to the French Chamber of Deputies in 1884, Jules Ferry, who twice served as prime minister of France, said: "We must say openly that indeed the higher races have a right over the lower races...I repeat, that the superior races have a right because they have a duty. They have the duty to civilize the inferior races." � While colonialism has long ended, these narratives still continue today. In a speech at a press conference after a meeting of European Union leaders in 2017 French President Emmanuel Macron stated, "The challenge of Africa is completely different, it is much deeper. It is civilizational today. Failing states, complex democratic transitions, the demographic transition." He later said, "One of the essential challenges of Africa ... is that in some countries today seven or eight children [are] born to each woman."14 � Examples of other disparaging narratives about colonized people in history include the following in these next few slides:
+14 https://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-butmade-one-good-point
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+23
+Slide 13: How Non-white Men Were Depicted � Non-white/Non-European men were depicted as savage, primitive, and dangerous.  In America Indigenous Peoples were seen as "primitive" and in need of "civilizing"--or being forcibly relocated or even exterminated to make room for European colonists. The Declaration of Independence, written in 1776, includes a passage which states, "He has excited domestic insurrections amongst us, and has endeavored to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare is an undistinguished destruction of all ages, sexes, and conditions."  General Robert E. Lee in 1856 justified slavery with his disparaging view of Africans: "The Blacks are immeasurably better off here than in Africa, morally, physically, and socially. The painful discipline they are undergoing is necessary for their further instruction as a race, and will prepare them, I hope, for better things. How long their servitude may be necessary is known and ordered by a merciful Providence."  In 1888, with the rise in immigration from China, US President Grover Cleveland described Chinese immigrants as "an element ignorant of our constitution and laws, impossible of assimilation with our people and dangerous to our peace and welfare."
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+24
+Slide 14: How Non-white Women Were Depicted � Non-white/European women were often depicted as backwards and oppressed or exotic sex objects, or both. European travelers to the East or Africa imagined or visited these places with such imagery in mind.  Travelers and writers even fancied themselves playing the role of savior of these oppressed women as described by 19th century British writer John Ormsby in his 1864 work, Autumn Rambles in North Africa: "If only I could have represented her as young and lovely, escaped from the harem of some cruel and elderly Moor, and with large tearful eye imploring the sympathy of the Christian, what a valuable incident it would have been, and how well `Fathma the Victim' would have read at the top of this page!."  Exotic images of non-White women were imbedded in readers' minds through popular novels such as Heart of Darkness (1899) by British author Joseph Conrad, a standard reading in many college and high school English courses. It includes the following description of an African woman:15 "She was savage and superb, wildeyed and magnificent; there was something ominous and stately in her deliberate progress"
+Slide 15: How Non-Christian Religions Were Depicted � Non-Christian religions and their adherents were often denigrated as non-white and non-Christian. � Hindus were viewed as pagans who worshipped many gods; Jews as Christ-killers; Buddhists as passive and submissive; and Muslims as violent and warring infidels who threatened Christendom.
+15 https://en.wikipedia.org/wiki/Heart_of_Darkness
+Copyright � 2021 ING. 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128 | 408.296.7312 | Mail@ing.org
+
+
