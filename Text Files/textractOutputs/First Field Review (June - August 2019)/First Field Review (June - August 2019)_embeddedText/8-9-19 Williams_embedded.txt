@@ -1,0 +1,8 @@
+From: Ken Williams Sent: Thursday, August 8, 2019 8:29 PM To: Ethnic Studies Subject: Draft 2020 Ethnic Studies Model Curriculum
+To whom it may concern,
+I am unable to access any of the draft documents on web page https://www.cde.ca.gov/ci/cr/cf/esmcpubliccomment.asp. The error I'm encountering with each document appears to indicate read locks:
+This error is commonly encountered when a read lock is set on the file that you are attempting to open. Possible reasons for this: Another user has the file open, either on the same computer that you are using, or on another computer. Word crashed at some point in the past and left a read lock on the file. Another application has an exclusive lock on the file, preventing Word from opening the file. A custom application is running and has opened this file (possibly on another user's computer). It may have opened the file using an incorrect method. To correct this problem, close all applications, restart Word and try to open this file again. If this does not work, examine the properties of the file to determine if someone else has it open. Occasionally a phantom process (dead or disassociated program) may have a lock on the file, and the only means of clearing it is to restart your computer. For more information, see Microsoft Knowledge Base article 918593.
+Comment on the Ethnic Studies Model Curriculum - Curriculum Frameworks & Instructional Materials (CA Dept of Education) California is committed to providing excellent educational opportunities to all students. Research shows that culturally meaningful and relevant curriculum can have a positive impact on students. Students that become more engaged in school through courses like ethnic studies have higher graduation ...
+Regards.
+
+
